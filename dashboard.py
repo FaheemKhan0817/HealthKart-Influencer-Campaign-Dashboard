@@ -18,10 +18,10 @@ def fetch_all_data():
     Slightly messy merge logic, but gets the job done.
     """
     try:
-        inf_df = pd.read_csv("influencers.csv")
-        posts_df = pd.read_csv("posts.csv")
-        tracking_df = pd.read_csv("tracking_data.csv")
-        payouts_df = pd.read_csv("payouts.csv")
+        inf_df = pd.read_csv("data/influencers.csv")
+        posts_df = pd.read_csv("data/posts.csv")
+        tracking_df = pd.read_csv("data/tracking_data.csv")
+        payouts_df = pd.read_csv("data/payouts.csv")
 
         # Merge tracking + influencers
         combined_df = pd.merge(tracking_df, inf_df, left_on='influencer_id', right_on='id', how='left')
