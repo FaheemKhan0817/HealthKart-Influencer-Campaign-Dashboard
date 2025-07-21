@@ -13,7 +13,7 @@ Follow these steps to get the dashboard running on your local machine.
 2.  **Install Libraries**:
     Open your terminal and run the following command to install the necessary Python libraries:
     ```bash
-    pip install streamlit pandas plotly
+    pip install -r requirements.txt
     ```
 
 3.  **Data Files**:
