@@ -1,0 +1,31 @@
+post_id,influencer_id,platform,date,url,caption,reach,likes,comments
+101,1,Instagram,2024-04-01,http://.../post1,New MB protein!,500000,50000,2500
+102,1,Instagram,2024-05-10,http://.../post2,Fueling with MB,550000,52000,2800
+103,2,YouTube,2024-04-03,http://.../post3,HKVitals for health,300000,35000,1800
+104,2,YouTube,2024-05-15,http://.../post4,My daily vitamins,320000,36000,1900
+105,3,Instagram,2024-04-05,http://.../post5,Gritzo for champs,800000,75000,4500
+106,3,Instagram,2024-05-20,http://.../post6,Serious gains,850000,78000,4800
+107,4,YouTube,2024-04-08,http://.../post7,My wellness journey,150000,18000,900
+108,4,YouTube,2024-05-25,http://.../post8,Biotin benefits,160000,19000,1000
+109,5,Instagram,2024-04-12,http://.../post9,Power up!,250000,30000,1500
+110,6,Instagram,2024-04-15,http://.../post10,Morning Yoga Flow,400000,42000,2100
+111,7,YouTube,2024-04-18,http://.../post11,CrossFit WOD,320000,33000,1600
+112,8,Twitter,2024-04-20,http://.../post12,Quick health tip,100000,5000,200
+113,9,Twitter,2024-04-22,http://.../post13,Fighting fit,120000,6000,300
+114,10,Instagram,2024-04-25,http://.../post14,Mind & body balance,600000,65000,3500
+115,11,Instagram,2024-04-28,http://.../post15,Unleash the beast,1200000,110000,8000
+116,12,YouTube,2024-05-01,http://.../post16,Nutrition myths busted,450000,48000,2500
+117,13,Instagram,2024-05-05,http://.../post17,New PR day!,200000,25000,1200
+118,14,Instagram,2024-05-12,http://.../post18,Fitness motivation,350000,38000,1800
+119,15,YouTube,2024-05-18,http://.../post19,Full day of eating,280000,29000,1400
+120,5,Instagram,2024-06-01,http://.../post20,Strength is everything,260000,31000,1600
+121,6,Instagram,2024-06-05,http://.../post21,Yoga for beginners,420000,44000,2300
+122,7,YouTube,2024-06-10,http://.../post22,My supplement stack,330000,34000,1700
+123,8,Twitter,2024-06-12,http://.../post23,Stay hydrated!,110000,5500,250
+124,9,Twitter,2024-06-15,http://.../post24,Train hard,130000,6500,350
+125,10,Instagram,2024-06-18,http://.../post25,Find your calm,620000,67000,3700
+126,11,Instagram,2024-06-20,http://.../post26,Beast mode on,1250000,115000,8500
+127,12,YouTube,2024-06-22,http://.../post27,What's in my pantry,470000,49000,2600
+128,13,Instagram,2024-06-25,http://.../post28,Lifting heavy,210000,26000,1300
+129,14,Instagram,2024-06-28,http://.../post29,Get active today,360000,39000,1900
+130,15,YouTube,2024-07-01,http://.../post30,HIIT workout,290000,30000,1500
