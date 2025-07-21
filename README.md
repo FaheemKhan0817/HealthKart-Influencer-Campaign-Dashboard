@@ -8,12 +8,10 @@ An interactive Streamlit dashboard designed to analyze and visualize the perform
 
 ## 🎬 Demo Video
 
-<video width="100%" height="auto" controls autoplay loop muted>
-  <source src="asset/video-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo](asset/demo.gif)
 
-> 📁 Local file path: `asset/video-demo.mp4`
+> 📁 Local file path: `asset/demo.gif`
+
 
 ---
 
